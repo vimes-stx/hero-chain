@@ -1,6 +1,6 @@
 /// SPDX-License-Identifier: MIT
-/// @title Random
-/// @notice Provides functions for getting random values without
+/// @title Weighted Random
+/// @notice Provides functions for retrieving from a weighted random distribution
 /// @author vimes_stx <vimes.stx@gmail.com>
 
 pragma solidity ^0.8.0;
